@@ -10,5 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 		features= "src/test/java/features",
 		glue="stepDefination",stepNotifications =true)
 public class TestRunner {
+public void m()
+{
+	
+}
 
 }
