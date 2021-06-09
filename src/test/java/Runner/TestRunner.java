@@ -13,6 +13,6 @@ public class TestRunner {
 public void m()
 {
 	
+System.out.println("munnai bhai mbbs");
 }
-
 }
